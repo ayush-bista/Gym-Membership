@@ -1,0 +1,3 @@
+ID	Name	Location	Phone	Email	Membership Start Date	Plan	Price	Attendance	Loyalty Points	Active Status	Full Payment	Discount Amount	Total Amount Paid
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1	ds	dfsdsdv	sdv	sdv	1-January-1980	basic	6500.0	1	5.0	true	NA	NA	NA
